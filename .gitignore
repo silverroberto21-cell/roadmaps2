@@ -1,0 +1,12 @@
+# Environnement de fabrication
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers de travail générés
+build/*
+!build/volume.docx
+
+# Système
+.DS_Store

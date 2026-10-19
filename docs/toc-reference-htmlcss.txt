@@ -1,0 +1,320 @@
+Sommaire .... 2
+Lire aussi .... 1
+ Apprenez à créer votre site web avec HTML5 et CSS3 .... 6
+Partie 1 : Les bases de HTML5 .... 8
+  Comment fait-on pour créer des sites web ? .... 8
+    Le fonctionnement des sites web .... 8
+    HTML et CSS : deux langages pour créer un site web .... 10
+    Les rôles de HTML et CSS .... 10
+    Les différentes versions de HTML et CSS .... 12
+      Les versions de HTML .... 12
+      Les versions de CSS .... 12
+    L'éditeur de texte .... 12
+    Sous Windows .... 13
+    Sous Mac OS X .... 15
+    Sous Linux .... 15
+    Les navigateurs .... 16
+    Pourquoi le navigateur est important .... 16
+    Les navigateurs sur ordinateur .... 16
+      Télécharger les navigateurs .... 16
+      Comprendre les différences entre navigateurs .... 17
+    Les navigateurs sur mobile .... 18
+    En résumé .... 19
+  Votre première page web en HTML .... 20
+    Créer une page web avec l'éditeur .... 20
+    Les balises et leurs attributs .... 24
+    Les balises .... 24
+      Les balises en paires .... 24
+      Les balises orphelines .... 25
+    Les attributs .... 25
+    Structure de base d'une page HTML5 .... 26
+    Le doctype .... 27
+    La balise </html> .... 28
+    L'en-tête <head> et le corps <body> .... 28
+      L'encodage (charset) .... 28
+      Le titre principal de la page .... 29
+    Les commentaires .... 30
+    Insérer un commentaire .... 30
+    Tout le monde peut voir vos commentaires… et tout votre code HTML ! .... 31
+    En résumé .... 32
+  Organiser son texte .... 33
+    Les paragraphes .... 33
+    Sauter une ligne .... 33
+    Les titres .... 36
+    La mise en valeur .... 37
+    Mettre un peu en valeur .... 37
+    Mettre bien en valeur .... 38
+    Marquer le texte .... 38
+    N'oubliez pas : HTML pour le fond, CSS pour la forme .... 39
+    Les listes .... 39
+    Liste non ordonnée .... 39
+    Liste ordonnée .... 41
+    En résumé .... 42
+  Créer des liens .... 42
+    Un lien vers un autre site .... 43
+    Un lien vers une autre page de son site .... 44
+    Deux pages situées dans un même dossier .... 44
+      page1.html .... 44
+      page2.html .... 45
+    Deux pages situées dans des dossiers différents .... 45
+    Résumé en images .... 46
+    Un lien vers une ancre .... 47
+    Lien vers une ancre située dans une autre page .... 48
+    Cas pratiques d'utilisation des liens .... 48
+    Un lien qui affiche une infobulle au survol .... 48
+    Un lien qui ouvre une nouvelle fenêtre .... 48
+    Un lien pour envoyer un e-mail .... 49
+    Un lien pour télécharger un fichier .... 49
+    En résumé .... 49
+  Les images .... 50
+    Les différents formats d'images .... 51
+    Le JPEG .... 51
+    Le PNG .... 52
+    Le GIF .... 53
+    Il existe un format adapté à chaque image .... 53
+    Les erreurs à éviter .... 53
+      Bannissez les autres formats .... 53
+      Choisissez bien le nom de votre image .... 53
+    Insérer une image .... 53
+    Insertion d'une image .... 53
+    Ajouter une infobulle .... 54
+    Miniature cliquable .... 55
+    Les figures .... 55
+    Création d'une figure .... 55
+    Bien comprendre le rôle des figures .... 56
+    En résumé .... 57
+Partie 2 : Les joies de la mise en forme avec CSS .... 58
+  Mettre en place le CSS .... 58
+    La petite histoire du CSS .... 58
+    Petit rappel : à quoi sert CSS ? .... 58
+    CSS : des débuts difficiles .... 59
+    CSS : la prise en charge des navigateurs .... 59
+    Où écrit-on le CSS ? .... 60
+    Dans un fichier .css (recommandé) .... 60
+    Dans l'en-tête <head> du fichier HTML .... 63
+    Directement dans les balises (non recommandé) .... 64
+    Quelle méthode choisir ? .... 65
+    Appliquer un style : sélectionner une balise .... 66
+    Appliquer un style à plusieurs balises .... 69
+    Des commentaires dans du CSS .... 70
+    Appliquer un style : class et id .... 71
+    Les balises universelles .... 73
+    Appliquer un style : les sélecteurs avancés .... 74
+    Les sélecteurs que vous connaissez déjà .... 74
+    Les sélecteurs avancés .... 75
+      * : sélecteur universel .... 75
+      A B : une balise contenue dans une autre .... 76
+      A + B : une balise qui en suit une autre .... 76
+      A[attribut] : une balise qui possède un attribut .... 76
+      A[attribut="Valeur"] : une balise, un attribut et une valeur exacte .... 77
+      A[attribut*="Valeur"] : une balise, un attribut et une valeur .... 77
+    D'autres sélecteurs existent ! .... 77
+    En résumé .... 78
+  Formatage du texte .... 79
+    La taille .... 79
+    Une taille absolue .... 79
+    Une valeur relative .... 80
+    La police .... 81
+    Modifier la police utilisée .... 81
+    Utiliser une police personnalisée avec @font-face .... 83
+    Italique, gras, souligné… .... 85
+    Mettre en italique .... 85
+    Mettre en gras .... 86
+    Soulignement et autres décorations .... 86
+    L'alignement .... 87
+    Les flottants .... 88
+    Faire flotter une image .... 89
+    Stopper un flottant .... 90
+    En résumé .... 90
+  La couleur et le fond .... 91
+    Couleur du texte .... 92
+    Indiquer le nom de la couleur .... 92
+    La notation hexadécimale .... 94
+    La méthode RGB .... 95
+    Et en Bonus Track… .... 96
+    Couleur de fond .... 97
+    Le CSS et l'héritage .... 98
+    Exemple d'héritage avec la balise <mark> .... 99
+    Images de fond .... 100
+    Appliquer une image de fond .... 100
+    Options disponibles pour l'image de fond .... 101
+      background-attachment : fixer le fond .... 101
+      background-repeat : répétition du fond .... 102
+      background-position : position du fond .... 102
+    Combiner les propriétés .... 103
+    Plusieurs images de fond .... 104
+    La transparence .... 105
+    La propriété opacity .... 105
+    La notation RGBa .... 106
+    En résumé .... 107
+  Les bordures et les ombres .... 108
+    Bordures standard .... 108
+    En haut, à droite, à gauche, en bas… .... 109
+    Bordures arrondies .... 109
+    Les ombres .... 112
+    box-shadow : les ombres des boîtes .... 112
+    text-shadow : l'ombre du texte .... 114
+    En résumé .... 115
+  Création d'apparences dynamiques .... 116
+    Au survol .... 116
+    Au clic et lors de la sélection .... 117
+    :active : au moment du clic .... 117
+    :focus : lorsque l'élément est sélectionné .... 118
+    Lorsque le lien a déjà été consulté .... 118
+    En résumé .... 119
+Partie 3 : Mise en page du site .... 120
+  Structurer sa page .... 120
+    Les balises structurantes de HTML5 .... 120
+    <header> : l'en-tête .... 120
+    <footer> : le pied de page .... 121
+    <nav> : principaux liens de navigation .... 122
+    <section> : une section de page .... 123
+    <aside> : informations complémentaires .... 124
+    <article> : un article indépendant .... 125
+    Résumé .... 126
+    Exemple concret d'utilisation des balises .... 127
+    Assurer la compatibilité avec IE .... 128
+    En résumé .... 129
+  Le modèle des boîtes .... 131
+    Les balises de type block et inline .... 131
+    Quelques exemples .... 132
+    Les balises universelles .... 132
+    Respectez la sémantique ! .... 132
+    Les dimensions .... 132
+    Minimum et maximum .... 134
+    Les marges .... 135
+    En haut, à droite, à gauche, en bas… Et on recommence ! .... 138
+    Centrer des blocs .... 139
+    Quand ça dépasse… .... 140
+    overflow : couper un bloc .... 140
+    word-wrap : couper les textes trop larges .... 143
+    En résumé .... 144
+  Le positionnement en CSS .... 144
+    Le positionnement flottant .... 145
+    Transformez vos éléments avec display .... 148
+    Le positionnement inline-block .... 149
+    inline-block et compatibilité Internet Explorer .... 152
+    Les positionnements absolu, fixe et relatif .... 153
+    Le positionnement absolu .... 153
+    Le positionnement fixe .... 156
+    Le positionnement relatif .... 157
+    En résumé .... 158
+  TP : création d'un site pas à pas .... 158
+    Maquettage du design .... 159
+    Organiser le contenu en HTML .... 161
+    Mettre en forme en CSS .... 165
+    Les polices personnalisées .... 165
+    Définition des styles principaux .... 166
+    En-tête et liens de navigation .... 168
+      L'en-tête .... 168
+      Les liens de navigation .... 169
+    La bannière .... 170
+    Le corps .... 172
+    Le pied de page .... 174
+    Assurer la compatibilité avec IE .... 176
+    Faire fonctionner les balises structurantes de HTML5 .... 179
+    Régler le positionnement inline-block .... 179
+    Vérifier la validité .... 180
+    Le code final .... 181
+Partie 4 : Fonctionnalités évoluées .... 183
+  Les tableaux .... 183
+    Un tableau simple .... 183
+    La ligne d'en-tête .... 185
+    Titre du tableau .... 186
+    Un tableau structuré .... 187
+    Diviser un gros tableau .... 187
+    3, 2, 1… Fusioooon ! .... 188
+    En résumé .... 190
+  Les formulaires .... 190
+    Créer un formulaire .... 191
+    Les zones de saisie basiques .... 192
+    Zone de texte monoligne .... 192
+    Les libellés .... 193
+    Quelques attributs supplémentaires .... 194
+    Zone de mot de passe .... 194
+    Zone de texte multiligne .... 195
+    Les zones de saisie enrichies .... 196
+    E-mail .... 196
+    Une URL .... 197
+    Numéro de téléphone .... 197
+    Nombre .... 198
+    Un curseur .... 198
+    Couleur .... 198
+    Date .... 199
+    Recherche .... 199
+    Les éléments d'options .... 199
+    Les cases à cocher .... 199
+    Les zones d'options .... 200
+    Les listes déroulantes .... 202
+    Finaliser et envoyer le formulaire .... 204
+    Regrouper les champs .... 204
+    Sélectionner automatiquement un champ .... 205
+    Rendre un champ obligatoire .... 205
+    Le bouton d'envoi .... 206
+    En résumé .... 207
+  La vidéo et l'audio .... 208
+    Les formats audio et vidéo .... 208
+    Les formats audio .... 208
+    Les formats vidéo .... 208
+    Insertion d'un élément audio .... 209
+    Insertion d'une vidéo .... 211
+    En résumé .... 213
+  Mise en page adaptative avec les Media Queries .... 214
+    Mise en place des media queries .... 214
+    Appliquer une media query .... 214
+      Chargement d'une feuille de style différente .... 214
+      Chargement des règles directement dans la feuille de style .... 215
+    Les règles disponibles .... 215
+    Tester les media queries .... 216
+    Mise en pratique des media queries sur le design .... 217
+    La page .... 219
+    Le menu de navigation .... 219
+    La bannière .... 220
+    Le bloc « À propos de l'auteur » .... 220
+    Le résultat .... 221
+    Media queries et navigateurs mobiles .... 221
+    En résumé .... 222
+  Aller plus loin .... 223
+    Du site web à l'application web (JavaScript, AJAX…) .... 223
+    Technologies liées à HTML5 (Canvas, SVG, Web Sockets…) .... 224
+    Les sites web dynamiques (PHP, JEE, ASP .NET…) .... 225
+Partie 5 : Annexes .... 227
+  Envoyez votre site sur le Web .... 227
+    Le nom de domaine .... 227
+    Réserver un nom de domaine .... 227
+    L'hébergeur .... 228
+    Le rôle de l'hébergeur .... 228
+    Trouver un hébergeur .... 229
+    Commander un hébergement pour votre site web .... 231
+    Utiliser un client FTP .... 233
+    Installer un client FTP .... 233
+    Configurer le client FTP .... 234
+    Transférer les fichiers .... 235
+    En résumé .... 236
+  Mémento des balises HTML .... 237
+    Mémento .... 237
+    Balises de premier niveau .... 237
+    Balises d'en-tête .... 237
+    Balises de structuration du texte .... 237
+    Balises de listes .... 239
+    Balises de tableau .... 239
+    Balises de formulaire .... 239
+    Balises sectionnantes .... 239
+    Balises génériques .... 240
+  Mémento des propriétés CSS .... 241
+    Mémento .... 241
+    Propriétés de mise en forme du texte .... 241
+    Propriétés de couleur et de fond .... 241
+    Propriétés des boîtes .... 242
+    Propriétés de positionnement et d'affichage .... 243
+    Propriétés des listes .... 243
+    Propriétés des tableaux .... 244
+    Autres propriétés .... 244
+  Gérer la compatibilité entre les navigateurs .... 245
+    Les commentaires conditionnels .... 245
+    La syntaxe des commentaires conditionnels .... 245
+    Utilité des commentaires conditionnels .... 246
+    Les hacks CSS .... 247
+    Les outils de débogage .... 247
+    La couleur de fond pour marquer les éléments .... 247
+    Les outils de débogage .... 248
