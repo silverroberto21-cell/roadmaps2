@@ -14,7 +14,10 @@ COURSE = {
         "l'éditeur : systèmes d'exploitation, terminal, gestion de versions, "
         "réseaux, serveurs web, conteneurs, fournisseurs cloud, serverless, "
         "provisionnement, gestion de configuration, CI/CD, secrets, supervision, "
-        "orchestration, GitOps, service mesh et patrons de conception cloud.",
+        "orchestration, GitOps, service mesh et patrons de conception cloud. "
+        "Il ajoute ce que la feuille de route suppose sans le nommer : messagerie, "
+        "tests de charge, reprise après sinistre, coûts, plateforme interne et "
+        "sécurité de la chaîne logicielle.",
         "Il ne se contente pas d'énumérer des outils. Chaque chapitre explique le "
         "problème que l'outil résout, le modèle mental sous-jacent, puis la mise en "
         "œuvre concrète. Les exercices simulent des incidents réels : service qui ne "
@@ -26,7 +29,7 @@ COURSE = {
         "48 chapitres couvrant les quinze domaines de la feuille de route DevOps.",
         "Des centaines de commandes commentées : Linux, Git, Docker, kubectl, Terraform, Ansible.",
         "Des schémas d'architecture : réseau, Kubernetes, pipelines, observabilité.",
-        "Des exercices d'incident et des quiz de diagnostic.",
+        "Des exercices d'incident, des quiz de diagnostic et des études de cas.",
         "Un projet final : plateforme complète, du commit à la production.",
     ],
     "method": [
